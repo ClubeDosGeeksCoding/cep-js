@@ -1,0 +1,27 @@
+{
+  "name": "cep-js",
+  "version": "0.0.1",
+  "description": "Pacote JS para busca de CEP para node.js e browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClubeDosGeeksCoding/cep-js.git"
+  },
+  "keywords": [
+    "cep",
+    "brasil",
+    "busca"
+  ],
+  "author": "Jayr Alencar (www.jayralencar.com.br)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ClubeDosGeeksCoding/cep-js/issues"
+  },
+  "homepage": "https://github.com/ClubeDosGeeksCoding/cep-js#readme",
+  "dependencies":{
+    "request":"2.69.0"
+  },
+}
